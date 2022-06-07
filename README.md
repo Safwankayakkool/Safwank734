@@ -3,8 +3,7 @@
  # 💫About Me :
 I’m an aspiring 🔭 flutter developer
 🌱 I’m currently learning Python
-check my portfolio https://www.safvan.ml/
-📫 How to reach me: safwankayakkool@gmail.com
+check my portfolio https://www.safvan.ga/
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/safvan734) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@safwank734) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15358471) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/safvankayakkool) 
